@@ -1,1 +1,1 @@
-go test project.
+A project for learning Go fundamentals and core concepts.
